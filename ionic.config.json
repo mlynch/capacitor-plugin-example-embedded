@@ -1,0 +1,7 @@
+{
+  "name": "Capacitor Plugin Example Embedded",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
