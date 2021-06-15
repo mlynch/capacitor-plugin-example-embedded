@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Capacitor Plugin Example Embedded",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
